@@ -1,7 +1,7 @@
 
 # Wrangling Field Scans
 
-Scenario: you are working with large field team that is collecting behavioral measurements on subjects, and returning individual files. Everything is in a big messy ball called `field_data_example.zip`.
+Scenario: you are working with large field team that is collecting behavioral measurements on subjects, and returning individual files. Everything is in a big messy ball called `all-uploads.zip`.
 
 A single data file might look like this:
 
